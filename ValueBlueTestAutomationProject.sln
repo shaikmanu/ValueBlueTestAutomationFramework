@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericFramework", "EaFramework\GenericFramework.csproj", "{A461E3CA-7EEE-401A-B536-A37DAB6C2017}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUIAutomationProject", "GUIAutomationProject\GUIAutomationProject.csproj", "{D61853DE-300C-4CC2-9416-FFE4E2C3DAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A461E3CA-7EEE-401A-B536-A37DAB6C2017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A461E3CA-7EEE-401A-B536-A37DAB6C2017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A461E3CA-7EEE-401A-B536-A37DAB6C2017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A461E3CA-7EEE-401A-B536-A37DAB6C2017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61853DE-300C-4CC2-9416-FFE4E2C3DAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61853DE-300C-4CC2-9416-FFE4E2C3DAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61853DE-300C-4CC2-9416-FFE4E2C3DAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61853DE-300C-4CC2-9416-FFE4E2C3DAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C37464-A907-44B9-9827-C1F7F6A9FD28}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\bin\Debug\net6.0\EaFramework.deps.json
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\bin\Debug\net6.0\EaFramework.dll
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\bin\Debug\net6.0\EaFramework.pdb
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.csproj.AssemblyReference.cache
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.AssemblyInfoInputs.cache
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.AssemblyInfo.cs
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.csproj.CoreCompileInputs.cache
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.dll
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\refint\EaFramework.dll
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\EaFramework.pdb
+C:\Users\manuy\Downloads\EaTestAutomation-3\EaTestAutomation-3\EaFramework\obj\Debug\net6.0\ref\EaFramework.dll
