@@ -11,11 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Xunit.DependencyInjection.StartupType("GUIAutomationProject.Startup")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GUIAutomationProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd7153e2876c2e8d67a74b23a89c712f64fa2f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GUIAutomationProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GUIAutomationProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
