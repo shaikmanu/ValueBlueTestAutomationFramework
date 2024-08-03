@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EaFramework\GenericFramework.csproj" />
+    <ProjectReference Include="..\GenericFramework\GenericFramework.csproj" />
   </ItemGroup>
 
   <ItemGroup>
