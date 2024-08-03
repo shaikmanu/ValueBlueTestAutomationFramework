@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace EaFramework.Driver;
+namespace GenericFramework.Driver;
 
 public interface IDriverWait
 {
