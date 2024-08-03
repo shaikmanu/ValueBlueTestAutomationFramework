@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace EaFramework.Extensions;
+namespace GenericFramework.Extensions;
 
 public static class WebElementExtension
 {
