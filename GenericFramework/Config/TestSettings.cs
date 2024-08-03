@@ -1,6 +1,6 @@
-﻿using EaFramework.Driver;
+﻿using GenericFramework.Driver;
 
-namespace EaFramework.Config;
+namespace GenericFramework.Config;
 
 public class TestSettings
 {
