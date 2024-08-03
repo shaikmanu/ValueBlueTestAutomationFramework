@@ -1,8 +1,8 @@
-﻿using EaFramework.Config;
+﻿using GenericFramework.Config;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace EaFramework.Driver;
+namespace GenericFramework.Driver;
 
 public class DriverWait : IDriverWait
 {
