@@ -1,5 +1,5 @@
-﻿using EaFramework.Config;
-using EaFramework.Driver;
+﻿using GenericFramework.Config;
+using GenericFramework.Driver;
 using GUIAutomationProject.Pages;
 using Microsoft.Extensions.DependencyInjection;
 using SolidToken.SpecFlow.DependencyInjection;
