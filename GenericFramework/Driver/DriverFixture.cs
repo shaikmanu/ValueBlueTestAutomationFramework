@@ -1,11 +1,11 @@
-﻿using EaFramework.Config;
+﻿using GenericFramework.Config;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Safari;
 
-namespace EaFramework.Driver;
+namespace GenericFramework.Driver;
 
 public class DriverFixture : IDriverFixture, IDisposable
 {
